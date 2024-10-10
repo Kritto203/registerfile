@@ -1,0 +1,189 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+vdecoder3_8
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z1 !s110 1728543497
+!i10b 1
+!s100 Ik2G;z18UWXQ`V38`cD4J3
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I05HHeeJRZ^B3DRoYUL3GU1
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+S1
+Z4 dC:/Basic/learningmyself/registerfile
+w1728358365
+8C:/Basic/learningmyself/registerfile/decoder3_8.sv
+FC:/Basic/learningmyself/registerfile/decoder3_8.sv
+!i122 266
+L0 1 25
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1728543497.000000
+!s107 C:/Basic/learningmyself/registerfile/decoder3_8.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Basic/learningmyself/registerfile/decoder3_8.sv|
+!i113 1
+Z7 o-work work -sv
+Z8 tCvgOpt 0
+vDFF
+R0
+R1
+!i10b 1
+!s100 nc4nWSQVnozRAGcilnb1n2
+R2
+ISA6P7aXFn5nY06zzFg6Z02
+R3
+S1
+R4
+w1728369634
+8C:/Basic/learningmyself/registerfile/DFF.sv
+FC:/Basic/learningmyself/registerfile/DFF.sv
+!i122 267
+L0 1 15
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Basic/learningmyself/registerfile/DFF.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Basic/learningmyself/registerfile/DFF.sv|
+!i113 1
+R7
+R8
+n@d@f@f
+vMUX1_2
+R0
+Z9 !s110 1728543498
+!i10b 1
+!s100 ]2`0RJYV[b]i@l`YNSb`J0
+R2
+Ih;AcIOPf=A2@Bm`NJ>B343
+R3
+S1
+R4
+w1728376189
+8C:/Basic/learningmyself/registerfile/MUX1_2.sv
+FC:/Basic/learningmyself/registerfile/MUX1_2.sv
+!i122 268
+L0 1 14
+R5
+r1
+!s85 0
+31
+Z10 !s108 1728543498.000000
+!s107 C:/Basic/learningmyself/registerfile/MUX1_2.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Basic/learningmyself/registerfile/MUX1_2.sv|
+!i113 1
+R7
+R8
+n@m@u@x1_2
+vMUX8_1_16bit
+R0
+R9
+!i10b 1
+!s100 dN4Zl:2M^`bVUHQT2mS`43
+R2
+IGEBe_R84klbC4NP`4Si[l0
+R3
+S1
+R4
+w1728537298
+8C:/Basic/learningmyself/registerfile/MUX8_1_16bit.sv
+FC:/Basic/learningmyself/registerfile/MUX8_1_16bit.sv
+!i122 269
+L0 1 19
+R5
+r1
+!s85 0
+31
+R10
+!s107 C:/Basic/learningmyself/registerfile/MUX8_1_16bit.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Basic/learningmyself/registerfile/MUX8_1_16bit.sv|
+!i113 1
+R7
+R8
+n@m@u@x8_1_16bit
+vregister
+R0
+R9
+!i10b 1
+!s100 G1R?khk9djflRPKPmXTA42
+R2
+I^GPHFk0LGicfahI9VmVC_0
+R3
+S1
+R4
+w1728543483
+8C:/Basic/learningmyself/registerfile/register.sv
+FC:/Basic/learningmyself/registerfile/register.sv
+!i122 270
+L0 1 66
+R5
+r1
+!s85 0
+31
+R10
+!s107 C:/Basic/learningmyself/registerfile/register.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Basic/learningmyself/registerfile/register.sv|
+!i113 1
+R7
+R8
+vregisterfile
+R0
+R9
+!i10b 1
+!s100 :oIgc3cJh?PdU4_Ej6jWF3
+R2
+Il>GXIBIBJ[KnZW1]SfCce0
+R3
+S1
+R4
+w1728542372
+8C:/Basic/learningmyself/registerfile/registerfile.sv
+FC:/Basic/learningmyself/registerfile/registerfile.sv
+!i122 271
+L0 1 26
+R5
+r1
+!s85 0
+31
+R10
+!s107 C:/Basic/learningmyself/registerfile/registerfile.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Basic/learningmyself/registerfile/registerfile.sv|
+!i113 1
+R7
+R8
+vtb_register
+R0
+R9
+!i10b 1
+!s100 <A9i8AiG?P^_?8TdjV`T21
+R2
+IPejdKakIB5e@Gh<@E;AQC3
+R3
+S1
+R4
+w1728543255
+8C:/Basic/learningmyself/registerfile/tb_registerfile.sv
+FC:/Basic/learningmyself/registerfile/tb_registerfile.sv
+!i122 272
+L0 1 79
+R5
+r1
+!s85 0
+31
+R10
+!s107 C:/Basic/learningmyself/registerfile/tb_registerfile.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Basic/learningmyself/registerfile/tb_registerfile.sv|
+!i113 1
+R7
+R8

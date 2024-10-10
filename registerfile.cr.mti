@@ -1,0 +1,44 @@
+C:/Basic/learningmyself/registerfile/registerfile.sv {1 {vlog -work work -sv -stats=none C:/Basic/learningmyself/registerfile/registerfile.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module registerfile
+
+Top level modules:
+	registerfile
+
+} {} {}} C:/Basic/learningmyself/registerfile/tb_registerfile.sv {1 {vlog -work work -sv -stats=none C:/Basic/learningmyself/registerfile/tb_registerfile.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_register
+
+Top level modules:
+	tb_register
+
+} {} {}} C:/Basic/learningmyself/registerfile/MUX8_1_16bit.sv {2 {vlog -work work -sv -stats=none C:/Basic/learningmyself/registerfile/MUX8_1_16bit.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module MUX8_1_16bit
+** Warning: C:/Basic/learningmyself/registerfile/MUX8_1_16bit.sv(3): (vlog-13314) Defaulting port 'in' kind to 'var' rather than 'wire' due to default compile option setting of -svinputport=relaxed.
+
+Top level modules:
+	MUX8_1_16bit
+
+} {} {}} C:/Basic/learningmyself/registerfile/MUX1_2.sv {1 {vlog -work work -sv -stats=none C:/Basic/learningmyself/registerfile/MUX1_2.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module MUX1_2
+
+Top level modules:
+	MUX1_2
+
+} {} {}} C:/Basic/learningmyself/registerfile/DFF.sv {1 {vlog -work work -sv -stats=none C:/Basic/learningmyself/registerfile/DFF.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module DFF
+
+Top level modules:
+	DFF
+
+} {} {}} C:/Basic/learningmyself/registerfile/decoder3_8.sv {1 {vlog -work work -sv -stats=none C:/Basic/learningmyself/registerfile/decoder3_8.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module decoder3_8
+
+Top level modules:
+	decoder3_8
+
+} {} {}}
